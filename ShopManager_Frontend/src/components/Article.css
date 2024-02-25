@@ -1,0 +1,15 @@
+.paging{
+    display: flex;
+    margin-left: 30%;
+}
+.midlle-button{
+    padding: 20px;
+}
+#cross_button{
+    background: transparent;
+    border: transparent;
+    margin-left: -18%;
+}
+.col-auto{
+    display: flex;
+}
