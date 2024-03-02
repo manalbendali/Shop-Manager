@@ -18,3 +18,10 @@ This project is aimed at enhancing knowledge in Laravel API and React JS through
 **React JS:** React JS is utilized for the frontend development, enabling dynamic and responsive user interfaces.
 
 **Other Libraries and Tools:** Various libraries and tools may be used to enhance the development process, such as Axios for HTTP requests, React Router for navigation, etc.
+
+## Contributing
+Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the project.
+
+
+## License
+This project is licensed under the MIT License.
