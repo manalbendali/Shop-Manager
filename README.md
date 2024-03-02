@@ -1,27 +1,34 @@
-# Laravel API and React JS Shop Project
-This project is aimed at enhancing knowledge in Laravel API and React JS through the development of a small shop application. The main objective is to create a platform where users can perform various CRUD (Create, Read, Update, Delete) operations on articles.
+# Shop Manager (Educational Project)
+Shop Manager is an educational web application developed to enhance knowledge in API development using Laravel and frontend development using React JS. This project serves as a learning tool for beginners who want to explore Laravel API development and React JS fundamentals.
 
-## Features
-  **Add Article:** Users can add new articles to the shop.
+## Objective
+The main objective of this project is to provide hands-on experience in building a small shop application. It focuses on implementing CRUD (Create, Read, Update, Delete) operations for managing articles. The backend is developed using Laravel, while the frontend is built with React JS.
 
-  **Edit Article:** Existing articles can be edited and updated.
+## Key Learning Points
+Understanding the fundamentals of API development with Laravel.
 
-  **List Articles with Pagination:** The application provides a paginated list of articles, allowing users to navigate through them easily.
+Exploring frontend development using React JS.
 
-  **Search Articles:** Users can search for articles using specific keywords or phrases.
+Implementing CRUD operations for managing articles.
 
-  **Delete Article:** Unwanted articles can be deleted from the shop
+Utilizing pagination for listing articles.
+
+Incorporating search functionality.
 
 ## Technologies Used
-**Laravel:** Laravel is used to develop the backend API for the shop, providing robust and efficient server-side functionality.
+**Laravel:** Laravel framework is used for the backend API development, providing robust server-side functionality.
 
-**React JS:** React JS is utilized for the frontend development, enabling dynamic and responsive user interfaces.
+**React JS:** React JS library is utilized for the frontend development, offering dynamic and responsive user interfaces.
 
-**Other Libraries and Tools:** Various libraries and tools may be used to enhance the development process, such as Axios for HTTP requests, React Router for navigation, etc.
+**MySQL:** MySQL is used as the relational database management system to store article data.
+
+**Postman:** Postman is used for API testing and development, allowing for easy interaction with the backend endpoints.
+
+## Disclaimer
+**Important:** This project is not intended for production use. It is solely created for educational purposes to enhance knowledge and skills in web development.
 
 ## Contributing
-Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the project.
-
+Contributions to improve the educational value of this project are welcome! Feel free to submit suggestions, improvements, or additional features that can enhance the learning experience for beginners.
 
 ## License
 This project is licensed under the MIT License.
