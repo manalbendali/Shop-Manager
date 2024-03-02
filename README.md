@@ -24,6 +24,17 @@ Incorporating search functionality.
 
 **Postman:** Postman is used for API testing and development, allowing for easy interaction with the backend endpoints.
 
+## Features
+**Add Article:** Users can add new articles to the shop.
+
+**Edit Article:** Existing articles can be edited and updated.
+
+**List Articles with Pagination:** The application provides a paginated list of articles, allowing users to navigate through them easily.
+
+**Search Articles:** Users can search for articles using specific keywords or phrases.
+
+**Delete Article:** Unwanted articles can be deleted from the shop.
+
 ## Disclaimer
 **Important:** This project is not intended for production use. It is solely created for educational purposes to enhance knowledge and skills in web development.
 
